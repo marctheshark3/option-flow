@@ -1,0 +1,10 @@
+[
+  {"id": "alpha", "values": [3, 5, 8, 13]},
+  {"id": "bravo", "values": [2, 7, 11, 17]},
+  {"id": "charlie", "values": [19, 23, 29, 31]},
+  {"id": "delta", "values": [4, 9, 16, 25]},
+  {"id": "echo", "values": [1, 6, 15, 28]},
+  {"id": "foxtrot", "values": [12, 18, 24, 30]},
+  {"id": "golf", "values": [10, 20, 40, 80]},
+  {"id": "hotel", "values": [7, 14, 21, 35]}
+]

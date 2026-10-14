@@ -1,0 +1,10 @@
+[
+  {"id": "change-01", "defect": null},
+  {"id": "change-02", "defect": "contract"},
+  {"id": "change-03", "defect": null},
+  {"id": "change-04", "defect": "regression"},
+  {"id": "change-05", "defect": null},
+  {"id": "change-06", "defect": "contract"},
+  {"id": "change-07", "defect": null},
+  {"id": "change-08", "defect": "regression"}
+]

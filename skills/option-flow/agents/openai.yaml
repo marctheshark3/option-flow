@@ -1,0 +1,4 @@
+interface:
+  display_name: "Option Flow"
+  short_description: "Resolve bottlenecks in experiments and delivery"
+  default_prompt: "Use $option-flow to find and improve the constraint delaying this workflow, then verify the outcome and cost."

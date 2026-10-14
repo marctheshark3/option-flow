@@ -1,0 +1,4 @@
+{
+  "complete": {"checks": ["syntax", "contract", "regression"], "local_ms": 30},
+  "compact": {"checks": ["syntax"], "local_ms": 8}
+}

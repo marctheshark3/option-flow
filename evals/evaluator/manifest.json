@@ -1,0 +1,12 @@
+{
+  "case-01": {
+    "backend.py": "e0e978b1d6e41044e2357110f2b5af2e358e9d6b6a825d72839e5a7ae9908290",
+    "candidates.json": "2ca5bb3d6eb917f35a622e294796b6beac40ddd2e266c53c574970618a1fa5f1",
+    "coordinator.py": "baeb932299ae7229e1cfe76c5a8dc428d08e88f07c60636634bb766d8979eac9"
+  },
+  "case-02": {
+    "delivery_lab.py": "71174a3a1bbebd4e868fd792ba9def4e3ee0ac7f8612a99a11adea110dbedf96",
+    "changes.json": "dbe672b53d218f4af23bb37faa9ef2e5a8f278f33ed0b9f77dccba78935ce828",
+    "policies.json": "3bfc962e97570520bf1f881566cd043b8df9bfca2b439b1ddf8dfc4446de586b"
+  }
+}
