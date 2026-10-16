@@ -4,8 +4,9 @@ An agent skill for finding and resolving bottlenecks in code, tools, and
 development feedback. It helps an agent identify the limiting mechanism, try a
 proportionate intervention, and verify the useful outcome and cost.
 
-A conference presentation by **Gene Kim**, attended by this project's author,
-inspired Option Flow's use of options thinking to reduce bottlenecks. His
+An IT Revolution conference presentation by **Gene Kim**, attended by this
+project's author, inspired Option Flow's use of options thinking to reduce
+bottlenecks. His
 [published explanation of option value](https://itrevolution.com/articles/option-value-in-development-manufacturing-dora-metrics/)
 provides related background.
 

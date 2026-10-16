@@ -2,9 +2,10 @@
 
 Use the model to decide where a useful experiment is blocked. The desired result is a better decision or delivered change, supported by evidence and proportionate cost. `NKσ/T` is a heuristic lens, not a calibrated productivity or economic-value score.
 
-The project's author credits a Gene Kim conference presentation as the inspiration
-for applying options thinking to bottlenecks. The sources below include Kim's
-published explanation and Baldwin and Clark's underlying research.
+The project's author credits a Gene Kim presentation at an IT Revolution
+conference as the inspiration for applying options thinking to bottlenecks.
+The sources below include Kim's published explanation and Baldwin and Clark's
+underlying research.
 
 ## What the variables mean
 
