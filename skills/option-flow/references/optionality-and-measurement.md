@@ -2,6 +2,10 @@
 
 Use the model to decide where a useful experiment is blocked. The desired result is a better decision or delivered change, supported by evidence and proportionate cost. `NKσ/T` is a heuristic lens, not a calibrated productivity or economic-value score.
 
+The project's author credits a Gene Kim conference presentation as the inspiration
+for applying options thinking to bottlenecks. The sources below include Kim's
+published explanation and Baldwin and Clark's underlying research.
+
 ## What the variables mean
 
 In [Gene Kim's explanation](https://itrevolution.com/articles/option-value-in-development-manufacturing-dora-metrics/), **N** counts independently workable modules, **K** counts parallel experiments per module, **T** is experiment-cycle duration, and **σ** describes uncertainty or volatility. Apply these meanings to a stated system boundary and proposed change. More files, branches, services, or agents do not establish more independent modules or experiments.
