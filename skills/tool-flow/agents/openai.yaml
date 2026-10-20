@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tool Flow"
+  short_description: "Audit agent tool use and reduce feedback bottlenecks"
+  default_prompt: "Use $tool-flow to analyze our tool calls, identify costly rework, and verify a proportionate improvement."
