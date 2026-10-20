@@ -35,6 +35,16 @@ The result explains the outcome, constraint, evidence, intervention, comparison,
 cost, limitations, and adoption decision. It keeps time to useful experimental
 feedback separate from time to an accepted or delivered change.
 
+## Tool Flow companion
+
+[Tool Flow](skills/tool-flow) audits agent call histories, distinguishes tool
+latency from coordination and rework, and verifies proportionate improvements.
+Its standard-library analyzer supports explicit Codex/Claude JSONL and T3 activity
+exports without executing or emitting recorded payloads. Invoke `$tool-flow`.
+It shares Option Flow's measurement lens and keeps both feedback clocks explicit.
+The companion is independently installable; Python 3.10+ is required for its
+optional deterministic helper.
+
 ## Install
 
 The complete package is [skills/option-flow](skills/option-flow). Install that
